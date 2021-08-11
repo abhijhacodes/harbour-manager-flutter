@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "679367005552",
+    "project_id": "harbour-app",
+    "storage_bucket": "harbour-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679367005552:android:406e6563960e6cf4b4ebb5",
+        "android_client_info": {
+          "package_name": "com.example.harbour_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679367005552-ovgufpm2bvivg9mb3kogaqu1eqgpki5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harbour_app",
+            "certificate_hash": "8aad8e2902267e2d403bae83cfd54f74153607c0"
+          }
+        },
+        {
+          "client_id": "679367005552-kdnrr8hibqdk80ntn3l0j84seu648109.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYkLbq6N5m_qJHOVxmamQySfxYnTgyrMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679367005552-kdnrr8hibqdk80ntn3l0j84seu648109.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
